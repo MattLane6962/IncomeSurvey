@@ -1,0 +1,2 @@
+Application that analyzes an income survey, allows input of an identification code for a family, a count of the number of members in a household, and the yearly income.
+Prepares a report of households on the survey, includes reports on above average incomes in the survey and a percentage of those below the poverty threshold.
